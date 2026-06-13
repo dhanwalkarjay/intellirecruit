@@ -1,0 +1,59 @@
+{
+  "role": "Senior AI Engineer",
+  "company": "Redrob AI (Series A)",
+  "locations": [
+    "new delhi",
+    "gurgaon",
+    "hyderabad",
+    "delhi ncr",
+    "mumbai",
+    "delhi",
+    "noida",
+    "ncr",
+    "pune",
+    "gurugram"
+  ],
+  "experience_range": [
+    5,
+    9
+  ],
+  "required_skills": [
+    "embeddings",
+    "sentence transformers",
+    "vector database",
+    "FAISS",
+    "retrieval",
+    "ranking",
+    "NDCG",
+    "Python",
+    "information retrieval",
+    "hybrid search",
+    "semantic search",
+    "NLP",
+    "recommendation system",
+    "search",
+    "machine learning",
+    "deep learning",
+    "Elasticsearch",
+    "LLM",
+    "fine-tuning",
+    "LoRA",
+    "learning to rank",
+    "A/B testing",
+    "Pinecone",
+    "Milvus",
+    "Weaviate",
+    "Qdrant",
+    "OpenSearch",
+    "transformers",
+    "PyTorch",
+    "distributed systems",
+    "inference optimization",
+    "open source"
+  ],
+  "ideal_text": "Senior AI Engineer with 6 to 8 years total experience, of which 4 to 5 years are in applied machine learning roles at product companies, not consulting firms. Has shipped at least one production ranking, search, or recommendation system to real users at meaningful scale. Deep expertise in vector embeddings using sentence-transformers, BGE, E5, or OpenAI embeddings. Production experience with vector databases and hybrid retrieval infrastructure such as FAISS, Pinecone, Weaviate, Milvus, Qdrant, Elasticsearch, or OpenSearch. Hands-on experience designing evaluation frameworks for ranking systems including NDCG, MRR, MAP, offline to online correlation, and A/B test interpretation. Strong Python and software engineering skills. Experience with LLM fine-tuning using LoRA or QLoRA. Familiar with learning-to-rank models using XGBoost or neural approaches. Background in NLP and information retrieval, not primarily computer vision or speech. Open to work and actively seeking new opportunities. Located in or willing to relocate to Pune, Noida, Hyderabad, Mumbai, or Delhi NCR in India. Prefers hybrid or flexible work arrangement. Short notice period preferred, ideally under 30 days. Scrappy product engineering mindset, ships working systems quickly, iterates on real user feedback. Has open source contributions or external validation of technical work.",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_shape": [
+    384
+  ]
+}
